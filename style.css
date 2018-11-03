@@ -1,0 +1,126 @@
+.navbar {
+  background: #ffffff;
+  border-bottom: 1px solid #cccccc;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+a {
+  color: #777777;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+h2 {
+  color: white;
+  font-family: "Georgia", Times, Times New Roman, serif;
+  background: #4aaaa5;
+  height: 78px;
+  margin: 0;
+  text-align: center;
+  font-weight: bolder;
+  padding-top: 20px;
+}
+
+.navbar-content {
+  display: flex;
+  width: 960px;
+  margin-left: 210px;
+}
+
+h3 {
+  color: #4aaaa5;
+  font-weight: bolder;
+  font-family: "Georgia", Times, Times New Roman, serif;
+  padding-bottom: 5px;
+}
+
+.background {
+  background-image: url("images/qbkls.jpg");
+  height: 150vh;
+}
+
+.container {
+  background: #ffffff;
+  width: 960px;
+  border: solid #dddddd;
+  margin-top: 50px;
+  padding: 30px;
+  margin-bottom: 260px;
+  height: 740px;
+}
+
+#content {
+  border-top: 2px solid #dddddd;
+  padding-top: 15px;
+}
+
+ #bigMessage {
+    height: 200px;
+}
+
+#button {
+    background: #4aaaa5;
+    color: #ffffff;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#teal {
+  /* background-color: #4aaaa5;
+  color: #ffffff;
+  font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif; */
+  text-align: center;
+  /* width: 300px;
+  height: 60px; */
+  margin-top: 15px;
+  margin-bottom: 15px;
+  justify-content: space-around;
+  padding-top: 5px;
+}
+
+.navbar-content {
+  width: 960px;
+  align-content: center;
+}
+
+#textbox {
+  color: #777777;
+}
+
+.img-thumbnail {
+  width: 200px;
+  height: 250px;
+  margin-bottom: 5px;
+  margin-left: -15px;
+  margin-right: -50px;
+}
+
+.page-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  height: 79px;
+  border-top: 8px solid #4aaaa5;
+  color: #777777;
+  background: #666666;
+}
+
+.col-4 {
+  /* flex: 0 0 33.333333%; */
+  /* max-width: 33.333333%; */
+  width: 360px;
+  position: relative;
+  left: 170px;
+  height: 78px;
+}
+
+#navContent {
+  align-content: center;
+  margin-left: 240px;
+}
+
+#rightContent {
+  padding-top: 22px;
+}
